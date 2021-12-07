@@ -1,0 +1,129 @@
+{
+  "name": "Workshop",
+  "items": [
+    {
+      "name": "Solar",
+      "items": [
+        {
+          "name": "  Ip camera"
+        },
+        {
+          "name": "  Outside light"
+        },
+        {
+          "name": "  Ethernet switch"
+        }
+      ]
+    },
+    {
+      "name": "  Crosscut sled"
+    },
+    {
+      "name": "  Redesign lounge cupboards"
+    },
+    {
+      "name": "  Fix writing slope"
+    },
+    {
+      "name": "  Paint pillar drill vice to match pillar drill"
+    },
+    {
+      "name": "  Knife from circular saw blade"
+    },
+    {
+      "name": "  Projects",
+      "items": [
+        {
+          "name": "  Toolbox"
+        },
+        {
+          "name": "  Keepsake box"
+        },
+        {
+          "name": "  Epoxy coasters"
+        },
+        {
+          "name": "  Wood gears"
+        },
+        {
+          "name": "  Desk organiser"
+        },
+        {
+          "name": "  'book' box"
+        },
+        {
+          "name": "  Bench top bench frame"
+        },
+        {
+          "name": "  Flip top bench"
+        },
+        {
+          "name": "  Veneer rings"
+        },
+        {
+          "name": "  Copper & veneer rings"
+        },
+        {
+          "name": "  Crosscut Sled"
+        },
+        {
+          "name": "  Finger joint jig"
+        },
+        {
+          "name": "  Knife from circular saw blade"
+        }
+      ]
+    },
+    {
+      "name": "  Sharpening",
+      "items": [
+        {
+          "name": "  Chisels"
+        },
+        {
+          "name": "Plane blades"
+        },
+        {
+          "name": "Carving knives"
+        },
+        {
+          "name": "Build sharpening 'station'"
+        }
+      ]
+    },
+    {
+      "name": "Bin shed divider"
+    },
+    {
+      "name": "Vacuum chamber"
+    },
+    {
+      "name": "Wire socket ring main to Grid and Fusebox"
+    },
+    {
+      "name": "Add small consumer unit"
+    },
+    {
+      "name": "Garage Door Opener"
+    },
+    {
+      "name": "Workbench storage"
+    },
+    {
+      "name": "Triumph Scrambler",
+      "items": [
+        {
+          "name": "Create Bash Plate"
+        }
+      ]
+    },
+    {
+      "name": "CB750",
+      "items": [
+        {
+          "name": "Tidy up rear end"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "House",
+  "items":
+[{
+		"name": "New kitchen countertops"
+	},
+	{
+		"name": "Fix bathroom floor"
+	},
+	{
+		"name": "Replace Cooker socket"
+	},
+	{
+		"name": "Replace Fusebox"
+	},
+	{
+		"name": "TV cabinet doors"
+	},
+	{
+		"name": "ReWire House"
+	},
+	{
+		"name": "Garden",
+		"items": [{
+				"name": "Trim apple tree"
+			},
+			{
+				"name": "Clear out sheds"
+			},
+			{
+				"name": "Clear rubbish"
+			},
+			{
+				"name": "Trim bushes"
+			},
+			{
+				"name": "Garden corner light"
+			},
+			{
+				"name": "Clean Driveway"
+			},
+			{
+				"name": "Fix Patio"
+			},
+			{
+				"name": "install outdoor socket"
+			},
+			{
+				"name": "Get tree trimmed"
+			}
+		]
+	},
+	{
+		"name": "Chimney repointed"
+	},
+	{
+		"name": "Fix toilet cistern to wall"},
+	{
+		"name": "bedroom 2",
+		"items": [{
+				"name": "add high shelf"
+			},
+			{
+				"name": "repaint"
+			}
+		]
+	},
+	{
+		"name": "Enlarge loft hatch"
+	},
+	{
+		"name": "Redo utility room ceiling"
+	},
+	{"name": "Redo lounge ceiling"},
+	{
+		"name": "refit bathroom"
+	}
+]
+}
